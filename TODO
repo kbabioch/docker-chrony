@@ -1,0 +1,4 @@
+- Document NOTRACK in firewall for NTP
+- Test container after build (e.g. invoking chronyd with -x and waiting for a couple of seconds/minutes, etc.)
+- Unit test for entrypoint script
+- Unit test for healthcheck script
